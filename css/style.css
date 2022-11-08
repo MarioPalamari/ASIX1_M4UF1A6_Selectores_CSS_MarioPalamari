@@ -1,5 +1,5 @@
 * {
-    font-family: robot
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 
 body {
@@ -19,6 +19,7 @@ h1 {
 }
 
 .selector {
+    color:lightcyan;
     background-color: darkcyan;
     padding: 1%;
     border-radius: 5px;
